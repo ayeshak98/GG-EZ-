@@ -9,10 +9,20 @@ h1 {
 p {
 	color: white;
 	font-family: Emotion Engine;
-	font-size: 160%;
+	font-size: 140%;
 }
 footer {
 	color; white;
 	font-family: Emotion Engine;
 	font-size: 100%;
+}
+@media screen and (min-width: 480px) {
+	body {
+		background-color: purple;
+	}
+}
+
+@media screen and (min-width: 480px) {
+	#leftsidebar {width: 280px; float: left;}
+	#main {margin-left: 216px;}
 }
