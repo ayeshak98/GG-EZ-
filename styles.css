@@ -1,3 +1,7 @@
+img {
+	width: 100%;
+	height: auto;
+}
 body {
 	background-color: purple;
 }
@@ -12,6 +16,8 @@ p {
 	font-size: 140%;
 }
 footer {
+	height: 100px;
+	background-color: purple;
 	color; white;
 	font-family: Emotion Engine;
 	font-size: 100%;
