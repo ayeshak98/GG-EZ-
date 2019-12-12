@@ -1,9 +1,15 @@
 img {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 body {
-	background-color: purple;
+	background-color: #4A235A;
+	color: white;
+}
+header {
+	color: white;
+	font-family: Vermin Vibes V;
+	font-size: 50%;
 }
 h1 {
 	color: white;
@@ -17,14 +23,14 @@ p {
 }
 footer {
 	height: 100px;
-	background-color: purple;
-	color; white;
+	background-color: #191970;
+	color: white;
 	font-family: Emotion Engine;
 	font-size: 100%;
 }
 @media screen and (min-width: 480px) {
 	body {
-		background-color: purple;
+		background-color: #4A235A;
 	}
 }
 
